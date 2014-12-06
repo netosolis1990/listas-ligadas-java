@@ -90,9 +90,4 @@ public class ListaLigada {
         System.out.println("");
         return elementos;
     }
-    
-    public static void main(String[] args) {
-        ListaLigada lista = new ListaLigada();
-        lista.insertarPrimero(1);
-    }
 }
